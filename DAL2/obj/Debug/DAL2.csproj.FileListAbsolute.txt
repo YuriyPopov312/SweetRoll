@@ -1,0 +1,156 @@
+D:\Юрий Владимирович\Конструирование лабы\Laba4\Magazin\DAL2\obj\Debug\DAL2.csprojAssemblyReference.cache
+D:\Юрий Владимирович\Конструирование лабы\Laba4\Magazin\DAL2\bin\Debug\DAL2.dll.config
+D:\Юрий Владимирович\Конструирование лабы\Laba4\Magazin\DAL2\bin\Debug\DAL2.dll
+D:\Юрий Владимирович\Конструирование лабы\Laba4\Magazin\DAL2\bin\Debug\DAL2.pdb
+D:\Юрий Владимирович\Конструирование лабы\Laba4\Magazin\DAL2\bin\Debug\EntityFramework.dll
+D:\Юрий Владимирович\Конструирование лабы\Laba4\Magazin\DAL2\bin\Debug\EntityFramework.SqlServer.dll
+D:\Юрий Владимирович\Конструирование лабы\Laba4\Magazin\DAL2\bin\Debug\EntityFramework.xml
+D:\Юрий Владимирович\Конструирование лабы\Laba4\Magazin\DAL2\bin\Debug\EntityFramework.SqlServer.xml
+D:\Юрий Владимирович\Конструирование лабы\Laba4\Magazin\DAL2\obj\Debug\DAL2.csproj.CopyComplete
+D:\Юрий Владимирович\Конструирование лабы\Laba4\Magazin\DAL2\obj\Debug\DAL2.dll
+D:\Юрий Владимирович\Конструирование лабы\Laba4\Magazin\DAL2\obj\Debug\DAL2.pdb
+D:\Юрий Владимирович\Конструирование лабы\Laba4\Magazin\DAL2\bin\Debug\ru\EntityFramework.resources.dll
+D:\Юрий Владимирович\Конструирование лабы\Laba4\Magazin\DAL2\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\Laba4\Magazin\DAL2\bin\Debug\DAL2.dll.config
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\Laba4\Magazin\DAL2\bin\Debug\DAL2.dll
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\Laba4\Magazin\DAL2\bin\Debug\DAL2.pdb
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\Laba4\Magazin\DAL2\bin\Debug\EntityFramework.dll
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\Laba4\Magazin\DAL2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\Laba4\Magazin\DAL2\bin\Debug\EntityFramework.xml
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\Laba4\Magazin\DAL2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\Laba4\Magazin\DAL2\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\Laba4\Magazin\DAL2\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\Laba4\Magazin\DAL2\obj\Debug\DAL2.csproj.CopyComplete
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\Laba4\Magazin\DAL2\obj\Debug\DAL2.dll
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\Laba4\Magazin\DAL2\obj\Debug\DAL2.pdb
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\4 лаба\Magazin\DAL2\bin\Debug\DAL2.dll.config
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\4 лаба\Magazin\DAL2\bin\Debug\DAL2.dll
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\4 лаба\Magazin\DAL2\bin\Debug\DAL2.pdb
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\4 лаба\Magazin\DAL2\bin\Debug\EntityFramework.dll
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\4 лаба\Magazin\DAL2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\4 лаба\Magazin\DAL2\bin\Debug\EntityFramework.xml
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\4 лаба\Magazin\DAL2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\4 лаба\Magazin\DAL2\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\4 лаба\Magazin\DAL2\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\4 лаба\Magazin\DAL2\obj\Debug\DAL2.csprojAssemblyReference.cache
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\4 лаба\Magazin\DAL2\obj\Debug\DAL2.csproj.CopyComplete
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\4 лаба\Magazin\DAL2\obj\Debug\DAL2.dll
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\4 лаба\Magazin\DAL2\obj\Debug\DAL2.pdb
+D:\Юрий Владимирович\Конструирование ПО\Курсач\4 лаба\Magazin\DAL2\bin\Debug\DAL2.dll.config
+D:\Юрий Владимирович\Конструирование ПО\Курсач\4 лаба\Magazin\DAL2\bin\Debug\DAL2.dll
+D:\Юрий Владимирович\Конструирование ПО\Курсач\4 лаба\Magazin\DAL2\bin\Debug\DAL2.pdb
+D:\Юрий Владимирович\Конструирование ПО\Курсач\4 лаба\Magazin\DAL2\bin\Debug\EntityFramework.dll
+D:\Юрий Владимирович\Конструирование ПО\Курсач\4 лаба\Magazin\DAL2\bin\Debug\EntityFramework.SqlServer.dll
+D:\Юрий Владимирович\Конструирование ПО\Курсач\4 лаба\Magazin\DAL2\bin\Debug\EntityFramework.xml
+D:\Юрий Владимирович\Конструирование ПО\Курсач\4 лаба\Magazin\DAL2\bin\Debug\EntityFramework.SqlServer.xml
+D:\Юрий Владимирович\Конструирование ПО\Курсач\4 лаба\Magazin\DAL2\bin\Debug\ru\EntityFramework.resources.dll
+D:\Юрий Владимирович\Конструирование ПО\Курсач\4 лаба\Magazin\DAL2\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Юрий Владимирович\Конструирование ПО\Курсач\4 лаба\Magazin\DAL2\obj\Debug\DAL2.csprojAssemblyReference.cache
+D:\Юрий Владимирович\Конструирование ПО\Курсач\4 лаба\Magazin\DAL2\obj\Debug\DAL2.csproj.CopyComplete
+D:\Юрий Владимирович\Конструирование ПО\Курсач\4 лаба\Magazin\DAL2\obj\Debug\DAL2.dll
+D:\Юрий Владимирович\Конструирование ПО\Курсач\4 лаба\Magazin\DAL2\obj\Debug\DAL2.pdb
+D:\Юрий Владимирович\Конструирование ПО\Курсач\НОВАЯ\_SwettRoll\Magazin\DAL2\bin\Debug\DAL2.dll.config
+D:\Юрий Владимирович\Конструирование ПО\Курсач\НОВАЯ\_SwettRoll\Magazin\DAL2\bin\Debug\DAL2.dll
+D:\Юрий Владимирович\Конструирование ПО\Курсач\НОВАЯ\_SwettRoll\Magazin\DAL2\bin\Debug\DAL2.pdb
+D:\Юрий Владимирович\Конструирование ПО\Курсач\НОВАЯ\_SwettRoll\Magazin\DAL2\bin\Debug\EntityFramework.dll
+D:\Юрий Владимирович\Конструирование ПО\Курсач\НОВАЯ\_SwettRoll\Magazin\DAL2\bin\Debug\EntityFramework.SqlServer.dll
+D:\Юрий Владимирович\Конструирование ПО\Курсач\НОВАЯ\_SwettRoll\Magazin\DAL2\bin\Debug\EntityFramework.xml
+D:\Юрий Владимирович\Конструирование ПО\Курсач\НОВАЯ\_SwettRoll\Magazin\DAL2\bin\Debug\EntityFramework.SqlServer.xml
+D:\Юрий Владимирович\Конструирование ПО\Курсач\НОВАЯ\_SwettRoll\Magazin\DAL2\bin\Debug\ru\EntityFramework.resources.dll
+D:\Юрий Владимирович\Конструирование ПО\Курсач\НОВАЯ\_SwettRoll\Magazin\DAL2\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Юрий Владимирович\Конструирование ПО\Курсач\НОВАЯ\_SwettRoll\Magazin\DAL2\obj\Debug\DAL2.csprojAssemblyReference.cache
+D:\Юрий Владимирович\Конструирование ПО\Курсач\НОВАЯ\_SwettRoll\Magazin\DAL2\obj\Debug\DAL2.csproj.CopyComplete
+D:\Юрий Владимирович\Конструирование ПО\Курсач\НОВАЯ\_SwettRoll\Magazin\DAL2\obj\Debug\DAL2.dll
+D:\Юрий Владимирович\Конструирование ПО\Курсач\НОВАЯ\_SwettRoll\Magazin\DAL2\obj\Debug\DAL2.pdb
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\Курсач\Magazin\DAL2\bin\Debug\DAL2.dll.config
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\Курсач\Magazin\DAL2\bin\Debug\DAL2.dll
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\Курсач\Magazin\DAL2\bin\Debug\DAL2.pdb
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\Курсач\Magazin\DAL2\bin\Debug\EntityFramework.dll
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\Курсач\Magazin\DAL2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\Курсач\Magazin\DAL2\bin\Debug\EntityFramework.xml
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\Курсач\Magazin\DAL2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\Курсач\Magazin\DAL2\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\Курсач\Magazin\DAL2\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\Курсач\Magazin\DAL2\obj\Debug\DAL2.csprojAssemblyReference.cache
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\Курсач\Magazin\DAL2\obj\Debug\DAL2.csproj.CopyComplete
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\Курсач\Magazin\DAL2\obj\Debug\DAL2.dll
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\Курсач\Magazin\DAL2\obj\Debug\DAL2.pdb
+D:\Юрий Владимирович\Magazin\DAL2\bin\Debug\DAL2.dll.config
+D:\Юрий Владимирович\Magazin\DAL2\bin\Debug\DAL2.dll
+D:\Юрий Владимирович\Magazin\DAL2\bin\Debug\DAL2.pdb
+D:\Юрий Владимирович\Magazin\DAL2\bin\Debug\EntityFramework.dll
+D:\Юрий Владимирович\Magazin\DAL2\bin\Debug\EntityFramework.SqlServer.dll
+D:\Юрий Владимирович\Magazin\DAL2\bin\Debug\EntityFramework.xml
+D:\Юрий Владимирович\Magazin\DAL2\bin\Debug\EntityFramework.SqlServer.xml
+D:\Юрий Владимирович\Magazin\DAL2\bin\Debug\ru\EntityFramework.resources.dll
+D:\Юрий Владимирович\Magazin\DAL2\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Юрий Владимирович\Magazin\DAL2\obj\Debug\DAL2.csprojAssemblyReference.cache
+D:\Юрий Владимирович\Magazin\DAL2\obj\Debug\DAL2.csproj.CopyComplete
+D:\Юрий Владимирович\Magazin\DAL2\obj\Debug\DAL2.dll
+D:\Юрий Владимирович\Magazin\DAL2\obj\Debug\DAL2.pdb
+D:\Юрий Владимирович\___Магазин булочек у Юрца\Magazin\DAL2\bin\Debug\DAL2.dll.config
+D:\Юрий Владимирович\___Магазин булочек у Юрца\Magazin\DAL2\bin\Debug\DAL2.dll
+D:\Юрий Владимирович\___Магазин булочек у Юрца\Magazin\DAL2\bin\Debug\DAL2.pdb
+D:\Юрий Владимирович\___Магазин булочек у Юрца\Magazin\DAL2\bin\Debug\EntityFramework.dll
+D:\Юрий Владимирович\___Магазин булочек у Юрца\Magazin\DAL2\bin\Debug\EntityFramework.SqlServer.dll
+D:\Юрий Владимирович\___Магазин булочек у Юрца\Magazin\DAL2\bin\Debug\EntityFramework.xml
+D:\Юрий Владимирович\___Магазин булочек у Юрца\Magazin\DAL2\bin\Debug\EntityFramework.SqlServer.xml
+D:\Юрий Владимирович\___Магазин булочек у Юрца\Magazin\DAL2\bin\Debug\ru\EntityFramework.resources.dll
+D:\Юрий Владимирович\___Магазин булочек у Юрца\Magazin\DAL2\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Юрий Владимирович\___Магазин булочек у Юрца\Magazin\DAL2\obj\Debug\DAL2.csprojAssemblyReference.cache
+D:\Юрий Владимирович\___Магазин булочек у Юрца\Magazin\DAL2\obj\Debug\DAL2.csproj.CopyComplete
+D:\Юрий Владимирович\___Магазин булочек у Юрца\Magazin\DAL2\obj\Debug\DAL2.dll
+D:\Юрий Владимирович\___Магазин булочек у Юрца\Magazin\DAL2\obj\Debug\DAL2.pdb
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\___Магазин булочек у Юрца\Magazin\DAL2\bin\Debug\DAL2.dll.config
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\___Магазин булочек у Юрца\Magazin\DAL2\bin\Debug\DAL2.dll
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\___Магазин булочек у Юрца\Magazin\DAL2\bin\Debug\DAL2.pdb
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\___Магазин булочек у Юрца\Magazin\DAL2\bin\Debug\EntityFramework.dll
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\___Магазин булочек у Юрца\Magazin\DAL2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\___Магазин булочек у Юрца\Magazin\DAL2\bin\Debug\EntityFramework.xml
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\___Магазин булочек у Юрца\Magazin\DAL2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\___Магазин булочек у Юрца\Magazin\DAL2\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\___Магазин булочек у Юрца\Magazin\DAL2\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\___Магазин булочек у Юрца\Magazin\DAL2\obj\Debug\DAL2.csprojAssemblyReference.cache
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\___Магазин булочек у Юрца\Magazin\DAL2\obj\Debug\DAL2.csproj.CopyComplete
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\___Магазин булочек у Юрца\Magazin\DAL2\obj\Debug\DAL2.dll
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\___Магазин булочек у Юрца\Magazin\DAL2\obj\Debug\DAL2.pdb
+D:\Юрий Владимирович\____Магазин булочек у Юрца(new)\Magazin\DAL2\bin\Debug\DAL2.dll.config
+D:\Юрий Владимирович\____Магазин булочек у Юрца(new)\Magazin\DAL2\bin\Debug\DAL2.dll
+D:\Юрий Владимирович\____Магазин булочек у Юрца(new)\Magazin\DAL2\bin\Debug\DAL2.pdb
+D:\Юрий Владимирович\____Магазин булочек у Юрца(new)\Magazin\DAL2\bin\Debug\EntityFramework.dll
+D:\Юрий Владимирович\____Магазин булочек у Юрца(new)\Magazin\DAL2\bin\Debug\EntityFramework.SqlServer.dll
+D:\Юрий Владимирович\____Магазин булочек у Юрца(new)\Magazin\DAL2\bin\Debug\EntityFramework.xml
+D:\Юрий Владимирович\____Магазин булочек у Юрца(new)\Magazin\DAL2\bin\Debug\EntityFramework.SqlServer.xml
+D:\Юрий Владимирович\____Магазин булочек у Юрца(new)\Magazin\DAL2\bin\Debug\ru\EntityFramework.resources.dll
+D:\Юрий Владимирович\____Магазин булочек у Юрца(new)\Magazin\DAL2\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Юрий Владимирович\____Магазин булочек у Юрца(new)\Magazin\DAL2\obj\Debug\DAL2.csprojAssemblyReference.cache
+D:\Юрий Владимирович\____Магазин булочек у Юрца(new)\Magazin\DAL2\obj\Debug\DAL2.csproj.CopyComplete
+D:\Юрий Владимирович\____Магазин булочек у Юрца(new)\Magazin\DAL2\obj\Debug\DAL2.dll
+D:\Юрий Владимирович\____Магазин булочек у Юрца(new)\Magazin\DAL2\obj\Debug\DAL2.pdb
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\____Магазин булочек у Юрца(new))\Magazin\DAL2\bin\Debug\DAL2.dll.config
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\____Магазин булочек у Юрца(new))\Magazin\DAL2\bin\Debug\DAL2.dll
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\____Магазин булочек у Юрца(new))\Magazin\DAL2\bin\Debug\DAL2.pdb
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\____Магазин булочек у Юрца(new))\Magazin\DAL2\bin\Debug\EntityFramework.dll
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\____Магазин булочек у Юрца(new))\Magazin\DAL2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\____Магазин булочек у Юрца(new))\Magazin\DAL2\bin\Debug\EntityFramework.xml
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\____Магазин булочек у Юрца(new))\Magazin\DAL2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\____Магазин булочек у Юрца(new))\Magazin\DAL2\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\____Магазин булочек у Юрца(new))\Magazin\DAL2\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\____Магазин булочек у Юрца(new))\Magazin\DAL2\obj\Debug\DAL2.csprojAssemblyReference.cache
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\____Магазин булочек у Юрца(new))\Magazin\DAL2\obj\Debug\DAL2.csproj.CopyComplete
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\____Магазин булочек у Юрца(new))\Magazin\DAL2\obj\Debug\DAL2.dll
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\____Магазин булочек у Юрца(new))\Magazin\DAL2\obj\Debug\DAL2.pdb
+D:\Курсовая работа конструирование ПО\Magazin\DAL2\bin\Debug\DAL2.dll.config
+D:\Курсовая работа конструирование ПО\Magazin\DAL2\bin\Debug\DAL2.dll
+D:\Курсовая работа конструирование ПО\Magazin\DAL2\bin\Debug\DAL2.pdb
+D:\Курсовая работа конструирование ПО\Magazin\DAL2\bin\Debug\EntityFramework.dll
+D:\Курсовая работа конструирование ПО\Magazin\DAL2\bin\Debug\EntityFramework.SqlServer.dll
+D:\Курсовая работа конструирование ПО\Magazin\DAL2\bin\Debug\EntityFramework.xml
+D:\Курсовая работа конструирование ПО\Magazin\DAL2\bin\Debug\EntityFramework.SqlServer.xml
+D:\Курсовая работа конструирование ПО\Magazin\DAL2\bin\Debug\ru\EntityFramework.resources.dll
+D:\Курсовая работа конструирование ПО\Magazin\DAL2\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Курсовая работа конструирование ПО\Magazin\DAL2\obj\Debug\DAL2.csprojAssemblyReference.cache
+D:\Курсовая работа конструирование ПО\Magazin\DAL2\obj\Debug\DAL2.csproj.CoreCompileInputs.cache
+D:\Курсовая работа конструирование ПО\Magazin\DAL2\obj\Debug\DAL2.csproj.CopyComplete
+D:\Курсовая работа конструирование ПО\Magazin\DAL2\obj\Debug\DAL2.dll
+D:\Курсовая работа конструирование ПО\Magazin\DAL2\obj\Debug\DAL2.pdb

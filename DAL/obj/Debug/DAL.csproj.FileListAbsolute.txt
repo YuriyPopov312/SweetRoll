@@ -1,0 +1,25 @@
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\Magazin\DAL\bin\Debug\DAL.dll.config
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\Magazin\DAL\bin\Debug\DAL.dll
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\Magazin\DAL\bin\Debug\DAL.pdb
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\Magazin\DAL\bin\Debug\EntityFramework.dll
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\Magazin\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\Magazin\DAL\bin\Debug\EntityFramework.xml
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\Magazin\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\Magazin\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\Magazin\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\Magazin\DAL\obj\Debug\DAL.dll
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\Magazin\DAL\obj\Debug\DAL.pdb
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\Magazin\DAL\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\Magazin\DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\КАТЯ\Desktop\5 семестр\Прога\Magazin\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Юрий Владимирович\Конструирование лабы\Laba4\Magazin\DAL\bin\Debug\DAL.dll.config
+D:\Юрий Владимирович\Конструирование лабы\Laba4\Magazin\DAL\bin\Debug\DAL.dll
+D:\Юрий Владимирович\Конструирование лабы\Laba4\Magazin\DAL\bin\Debug\DAL.pdb
+D:\Юрий Владимирович\Конструирование лабы\Laba4\Magazin\DAL\bin\Debug\EntityFramework.dll
+D:\Юрий Владимирович\Конструирование лабы\Laba4\Magazin\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Юрий Владимирович\Конструирование лабы\Laba4\Magazin\DAL\bin\Debug\EntityFramework.xml
+D:\Юрий Владимирович\Конструирование лабы\Laba4\Magazin\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Юрий Владимирович\Конструирование лабы\Laba4\Magazin\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Юрий Владимирович\Конструирование лабы\Laba4\Magazin\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Юрий Владимирович\Конструирование лабы\Laba4\Magazin\DAL\obj\Debug\DAL.dll
+D:\Юрий Владимирович\Конструирование лабы\Laba4\Magazin\DAL\obj\Debug\DAL.pdb
